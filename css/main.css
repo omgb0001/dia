@@ -5,11 +5,13 @@
 .fp{
     font-size: 0.8rem;
     font-weight: 600;
+    margin-left: 10px;
+    color: #bdcfe0;
     
 }
 .fpcopy{
     font-size: 0.8rem;
-    
+    margin-left: 10px;
     
 }
 
@@ -19,9 +21,14 @@
 }
 
 .fa-at{
-  color: #009999;
+  color: #1b4772;
 }
 
 .fa-mobile-alt{
-    color: #4d759e;
+    color: #1b4772;
+}
+
+.fcard{
+    padding-top: 10px;
+    
 }
