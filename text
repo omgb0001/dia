@@ -1,0 +1,1 @@
+curl  -u "omgb0001" https://api.github.com/user/repos -d '{"name":"wouba", "private":"true"}'
